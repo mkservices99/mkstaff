@@ -1,0 +1,8 @@
+name: MKStaff
+main: me.bukkit.mkservices.staffmode.Main
+version: 1.0
+api-version: 1.13
+commands:
+    mod:
+        description: Enter/leave moderator mode.
+        usage: /mod (player)
