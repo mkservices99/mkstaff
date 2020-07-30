@@ -1,4 +1,4 @@
 # mkstaff
-PERMISSIONS:
+PERMISSIONS:<br/>
   /mod - mkstaff.mod<br/>
   /sc - mkstaff.sc
