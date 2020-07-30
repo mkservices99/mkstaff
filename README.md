@@ -1,4 +1,5 @@
 # mkstaff
-PERMISSIONS:<br/>
+COMMANDS:<br/>
   /mod - mkstaff.mod<br/>
-  /sc - mkstaff.sc
+  /sc - mkstaff.sc<br/>
+  /mkchat - mkstaff.chat
