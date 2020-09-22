@@ -5,6 +5,7 @@ COMMANDS:<br/>
   /mkchat - Use mkchat commands.<br/>
   <br/>
   PERMISSIONS:<br/>
-  mkstaff.mod - /mod<br/>
-  mkstaff.staff - Access to various things like staff chat! (CRUCIAL for staff members!)<br/>
-  mkstaff.chat - /mkchat
+  mkstaff.mod - Permission for /mod<br/>
+  mkstaff.staff - CRUCIAL for staff members!<br/>
+  mkstaff.chat - Permission for /mkchat<br/>
+  mkstaff.bypasschat - Access to the chat while disabled!
